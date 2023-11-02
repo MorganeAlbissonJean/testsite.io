@@ -5,7 +5,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Halcyonic by HTML5 UP</title>
+    <title>Cave Canem</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -31,10 +31,12 @@
               <div class="col-6 col-12-medium">
                 <!-- Banner Copy -->
                 <p> éducation et comportement canin</p>
-                <a href="https://www.youtube.com/" class="button-large" target="_blank">Go
-                  on, click me!</a> </div>
+                <a href="https://www.youtube.com/" class="button-large"
+
+                  target="_blank">Go on, click me!</a> </div>
               <div class="col-6 col-12-medium imp-medium">
-                <!-- Banner Image --> <a href="#" class="bordered-feature-image"><img
+                <!-- Banner Image --> <a href="#" class="bordered-feature-image"><img
+
                     src="images/banner.jpg" alt=""></a> </div>
             </div>
           </div>
@@ -46,7 +48,8 @@
           <div class="row">
             <div class="col-3 col-6-medium col-12-small">
               <!-- Feature #1 -->
-              <section> <a href="#" class="bordered-feature-image"><img src="images/pic01.jpg"
+              <section> <a href="#" class="bordered-feature-image"><img src="images/pic01.jpg"
+
                     alt=""></a>
                 <h2>Welcome to Halcyonic</h2>
                 <p> This is <strong>Halcyonic</strong>, a free site template by
@@ -57,7 +60,8 @@
             </div>
             <div class="col-3 col-6-medium col-12-small">
               <!-- Feature #2 -->
-              <section> <a href="#" class="bordered-feature-image"><img src="images/pic02.jpg"
+              <section> <a href="#" class="bordered-feature-image"><img src="images/pic02.jpg"
+
                     alt=""></a>
                 <h2>Responsive You Say?</h2>
                 <p> Yes! Halcyonic is built to be fully responsive so it looks
@@ -67,7 +71,8 @@
             </div>
             <div class="col-3 col-6-medium col-12-small">
               <!-- Feature #3 -->
-              <section> <a href="#" class="bordered-feature-image"><img src="images/pic03.jpg"
+              <section> <a href="#" class="bordered-feature-image"><img src="images/pic03.jpg"
+
                     alt=""></a>
                 <h2>License Info</h2>
                 <p> Halcyonic is licensed under the <a href="http://html5up.net/license">CCA</a>
@@ -77,7 +82,8 @@
             </div>
             <div class="col-3 col-6-medium col-12-small">
               <!-- Feature #4 -->
-              <section> <a href="#" class="bordered-feature-image"><img src="images/pic04.jpg"
+              <section> <a href="#" class="bordered-feature-image"><img src="images/pic04.jpg"
+
                     alt=""></a>
                 <h2>Volutpat etiam aliquam</h2>
                 <p> Duis neque nisi, dapibus sed mattis quis, rutrum accumsan
